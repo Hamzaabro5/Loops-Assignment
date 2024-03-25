@@ -119,3 +119,49 @@
 
 // // Answer No 6
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Answer No 7
+
+// 1, Counting
+// const h2 = document.querySelector(`h2`)
+// for (let i = 1; i <= 15; i++) {
+//     console.log([i]);
+//     h2.innerHTML += `<li>${i}</li>`
+    
+// }
+
+
+
+
+// 2, Reverse Counting
+// const h2 = document.querySelector(`h2`)
+// for (let i = 15; i >= 1; i--) {
+//     console.log([i]);
+//     h2.innerHTML += `<li>${i}</li>`
+    
+// }
+
+
+
+// 3,  Even Counting
+// const h2 = document.querySelector(`h2`)
+// for (let i = 0; i <= 20; i+2) {
+//     console.log([i]);
+//     h2.innerHTML += `<li>${i}</li>`
+    
+// }
+
+
+// Answer No 7
