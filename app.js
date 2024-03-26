@@ -155,13 +155,100 @@
 
 
 
-// 3,  Even Counting
+// // 3,  Even Counting
 // const h2 = document.querySelector(`h2`)
-// for (let i = 0; i <= 20; i+2) {
-//     console.log([i]);
+// for (let i = 2; i <= 20; i+=2) {
+//     console.log(i);
 //     h2.innerHTML += `<li>${i}</li>`
     
 // }
 
 
+
+// // 4,  odd Counting
+// const h2 = document.querySelector(`h2`)
+// for (let i = 3; i <= 20; i+=3) {
+//     console.log(i);
+//     h2.innerHTML += `<li>${i}</li>`
+    
+// }
+
+
+
+
+// // 5, Series
+// const h2 = document.querySelector(`h2`)
+// for (let i = 2; i <= 20; i+=2) {
+//     console.log(i ,`k`);
+//     h2.innerHTML += `<li>${i}k</li>`
+    
+// }
+
 // Answer No 7
+
+
+
+
+
+
+
+
+// // Answer No 8
+
+// const array = [`cake` , `icecream` , `banana` , `mango` , `orange`]
+// const userInput = prompt(`What Are You Looking For?`)
+// let availible = false
+// const h2 = document.querySelector(`h2`)
+
+// for (let i = 0; i <= array.length; i++) {
+//     if (userInput === array[i]) {
+//         // console.log(`Its availible`);
+//         h2.innerHTML = `${userInput} is Availaible`
+//         availible = true
+//     }
+//     if (!availible) {
+//         // console.log(`Not Availible`);
+//         h2.innerHTML = `${userInput} is not Availaible`
+        
+//     }
+// }
+
+
+
+// // Answer No 8
+
+
+
+
+
+
+
+
+
+// // Answer No 12
+
+// const h2 = document.querySelector(`h2`)
+// for (let i = 0; i <= 100; i+=5) {
+//     console.log(i);
+//     h2.innerHTML +=  `<li>${i}</li>`
+
+// }
+
+
+
+// // Answer No 12
+
+
+
+
+
+
+// // Answer No 13
+
+// const student = [`hamza` , `salman` , `haseeb` , `amir`]
+// var scores = [`56` , `29` , `17` , `05` ]
+
+
+
+
+// // Answer No 13
