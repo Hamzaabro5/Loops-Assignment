@@ -252,3 +252,25 @@
 
 
 // // Answer No 13
+
+
+
+
+
+
+
+// // Answer No 15
+//  const arr = [[1,2,3] , [4,5,6] , [6,7,8]]
+//  const h2 = document.querySelector(`h2`)
+
+
+//  for (let i = 0; i < arr.length; i++) {
+//     console.log(arr[i]);
+//     h2.innerHTML += `<li>${arr[i]}</li>`
+//  }
+
+// // Answer No 15
+
+
+
+
