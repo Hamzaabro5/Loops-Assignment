@@ -109,29 +109,6 @@
 
 
 
-
-
-
-// // Answer No 6
-
-
-
-
-// // Answer No 6
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // Answer No 7
 
 // 1, Counting
@@ -245,10 +222,20 @@
 
 // // Answer No 13
 
+// const h2 = document.querySelector(`h2`)
+
 // const student = [`hamza` , `salman` , `haseeb` , `amir`]
 // var scores = [`56` , `29` , `17` , `05` ]
 
-
+// for (let i = 0; i < student.length; i++) {
+//     console.log(student[i]);
+    
+    
+// }
+// for (let i = 0; i < scores.length; i++) {
+//     console.log(scores[i]);
+    
+// }
 
 
 // // Answer No 13
